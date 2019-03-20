@@ -1,1 +1,1 @@
-# disocrd-bot-py
+# discord-bot-py
